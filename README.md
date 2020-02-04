@@ -4,21 +4,21 @@
     Redux Rocketshoes
 </h1>
 <h2>Course by rocketseat, learning React with Redux.</h2>
-<p>Available in https://rocketseat.com.br/gostack</p>
-<p>Project base available in https://github.com/lhlleonardo/React-Structure</p>
+<p>Available in: https://rocketseat.com.br/gostack</p>
+<p>Project base available in: https://github.com/lhlleonardo/React-Structure</p>
 <h3>HOW TO USE:</h3>
 
-<strong># Clone this repository</strong>
+<strong>Clone this repository:</strong>
 <p>$ git clone https://github.com/lhlleonardo/Redux-Rocketshoes</p>
 
-<strong># Go into the repository</strong>
+<strong>Go into the repository:</strong>
 <p>$ cd Redux-Rocketshoes/</p>
 
-<strong># Install dependencies</strong>
+<strong>Install dependencies:</strong>
 <p>$ yarn</p>
 
-<strong># Run the app</strong>
+<strong>Run the app:</strong>
 <p>$ yarn start</p>
 
-<strong># Run the API</strong>
+<strong>Run the API:</strong>
 <p>$ json-server server.json -p 8889</p>
