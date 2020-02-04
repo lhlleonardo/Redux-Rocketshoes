@@ -8,17 +8,17 @@
 <p>Project base available in https://github.com/lhlleonardo/React-Structure</p>
 <h3>HOW TO USE:</h3>
 
-<span># Clone this repository</span>
+<strong># Clone this repository</strong>
 <p>$ git clone https://github.com/lhlleonardo/Redux-Rocketshoes</p>
 
-<span># Go into the repository</span>
+<strong># Go into the repository</strong>
 <p>$ cd Redux-Rocketshoes/</p>
 
-<span># Install dependencies</span>
+<strong># Install dependencies</strong>
 <p>$ yarn</p>
 
-<span># Run the app</span>
+<strong># Run the app</strong>
 <p>$ yarn start</p>
 
-<span># Run the API</span>
+<strong># Run the API</strong>
 <p>$ json-server server.json -p 8889</p>
