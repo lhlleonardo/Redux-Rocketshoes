@@ -16,10 +16,10 @@ $ git clone https://github.com/lhlleonardo/Redux-Rocketshoes
 # Go into the repository:
 $ cd Redux-Rocketshoes
 
-# Install dependencies
+# Install dependencies:
 $ yarn
 
-# Run the app
+# Run the app:
 $ yarn start
 
 # Run the API:
