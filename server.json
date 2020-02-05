@@ -40,55 +40,55 @@
   "products": [
     {
       "id": 1,
-      "title": "Tênis de Caminhada Leve Confortável",
+      "title": "Simple Shoes",
       "price": 179.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
     },
     {
       "id": 2,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "title": "Shoes VR Runnin",
       "price": 139.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
     },
     {
       "id": 3,
-      "title": "Tênis Adidas Duramo Lite 2.0",
+      "title": "Nike Show Flex 2.0",
       "price": 219.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
     },
     {
       "id": 5,
-      "title": "Tênis VR Caminhada Confortável Detalhes Couro Masculino",
+      "title": "Puma Confort Flex",
       "price": 139.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis2.jpg"
     },
     {
       "id": 6,
-      "title": "Tênis Adidas Duramo Lite 2.0",
+      "title": "Shoes Adidas Duramo Lite 2.0",
       "price": 219.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis3.jpg"
     },
     {
       "id": 4,
-      "title": "Tênis de Caminhada Leve Confortável",
+      "title": "Runnin Shoes prototype Adidas Power",
       "price": 179.9,
       "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
     },
     {
         "id": 7,
-        "title": "Tênis de Caminhada",
+        "title": "Black Shoes Nike Shocks 6.4",
         "price": 119.2,
         "image": "https://rocketseat-cdn.s3-sa-east-1.amazonaws.com/modulo-redux/tenis1.jpg"
     },
     {
         "id": 8,
-        "title": "Tênis de Caminhada Vans",
+        "title": "Vans Flex Powe",
         "price": 559.2,
         "image": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/h36/hb7/h00/h00/9542848479262/1003500310010U-01-BASEIMAGE-Midres.jpg"
     },
     {
         "id": 9,
-        "title": "Tênis de flex Vans",
+        "title": "Vans",
         "price": 559.2,
         "image": "https://secure-static.vans.com.br/medias/sys_master/vans/vans/hc9/hfc/h00/h00/9542823444510/1003500310009U-04-BASEIMAGE-Midres.jpg"
     }

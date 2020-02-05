@@ -9,16 +9,16 @@
 <h3>HOW TO USE:</h3>
 
 <strong>Clone this repository:</strong>
-<p>$ git clone https://github.com/lhlleonardo/Redux-Rocketshoes</p>
+<p>git clone https://github.com/lhlleonardo/Redux-Rocketshoes</p>
 
 <strong>Go into the repository:</strong>
-<p>$ cd Redux-Rocketshoes/</p>
+<p>cd Redux-Rocketshoes/</p>
 
 <strong>Install dependencies:</strong>
-<p>$ yarn</p>
+<p>yarn</p>
 
 <strong>Run the app:</strong>
-<p>$ yarn start</p>
+<p>yarn start</p>
 
 <strong>Run the API:</strong>
-<p>$ json-server server.json -p 8889</p>
+<p>json-server server.json -p 8889</p>
